@@ -1,0 +1,62 @@
+question,answer,category
+hello,Hello! How can I assist you today?,greeting
+hi,Hi there! What can I help you with?,greeting
+good morning,Good morning! How are you doing today?,greeting
+good afternoon,Good afternoon! How can I help you?,greeting
+good evening,Good evening! What would you like to know?,greeting
+how are you,I'm doing great, thank you! How can I assist you?,greeting
+what is your name,I'm an AI chatbot designed to help with your questions.,about
+who created you,I was created by a developer to assist with various tasks.,about
+what can you do,I can answer questions, provide information, help with calculations, and more!,about
+tell me a joke,Why don't scientists trust atoms? Because they make up everything!,fun
+another joke,Why did the scarecrow win an award? Because he was outstanding in his field!,fun
+what is python,Python is a high-level programming language known for its simplicity and readability.,programming
+what is java,Java is an object-oriented programming language used for building enterprise applications.,programming
+what is javascript,JavaScript is a scripting language primarily used for web development.,programming
+how to learn coding,Start with basic programming concepts, practice regularly, and build small projects.,advice
+what is machine learning,Machine learning is a subset of AI that enables computers to learn from data.,technology
+what is artificial intelligence,AI is the simulation of human intelligence in machines that are programmed to think like humans.,technology
+what is the weather,I can't check real-time weather, but I hope it's pleasant where you are!,information
+what time is it,I don't have real-time access, but you can check your device clock.,information
+how to make coffee,Boil water, add coffee grounds to a filter, pour hot water over, and let it drip.,cooking
+how to cook pasta,Boil water, add salt, cook pasta for 8-12 minutes, then drain and serve with sauce.,cooking
+what is the capital of france,The capital of France is Paris.,geography
+capital of germany,The capital of Germany is Berlin.,geography
+capital of japan,The capital of Japan is Tokyo.,geography
+what is photosynthesis,Photosynthesis is the process plants use to convert sunlight into energy.,science
+what is gravity,Gravity is the force that attracts objects toward each other, like Earth pulling us down.,science
+how to stay healthy,Eat balanced meals, exercise regularly, get enough sleep, and manage stress.,health
+benefits of exercise,Exercise improves cardiovascular health, strengthens muscles, and boosts mood.,health
+what is mindfulness,Mindfulness is the practice of being present and fully engaged in the current moment.,health
+how to meditate,Find a quiet space, sit comfortably, focus on your breath, and gently return focus when distracted.,health
+what is ecommerce,E-commerce is buying and selling goods and services over the internet.,business
+what is marketing,Marketing is the process of promoting and selling products or services.,business
+how to start business,Identify a need, create a business plan, secure funding, and launch your product/service.,business
+what is leadership,Leadership is the ability to guide and influence others toward achieving common goals.,business
+book recommendations,Some popular books: 'Atomic Habits', 'The Alchemist', 'Sapiens', 'Thinking Fast and Slow',entertainment
+movie suggestions,Great movies: 'Inception', 'The Shawshank Redemption', 'The Dark Knight', 'Pulp Fiction',entertainment
+music genres,Popular genres include pop, rock, classical, jazz, hip-hop, electronic, and country.,entertainment
+how to play guitar,Start with basic chords, practice regularly, learn songs you enjoy, and consider lessons.,hobbies
+how to draw,Start with basic shapes, practice daily, study anatomy, and don't be afraid to make mistakes.,hobbies
+best programming language,The best language depends on your goals: Python for AI, JavaScript for web, Java for enterprise.,programming
+how to fix code errors,Read error messages carefully, use debugging tools, check documentation, and ask for help.,programming
+what is github,GitHub is a platform for version control and collaboration using Git.,technology
+what is docker,Docker is a platform for developing, shipping, and running applications in containers.,technology
+what is cloud computing,Cloud computing is delivering computing services over the internet on demand.,technology
+how to learn english,Practice regularly, watch English media, speak with natives, and use language apps.,education
+study tips,Create a schedule, take breaks, use active recall, teach others, and get enough sleep.,education
+what is calculus,Calculus is a branch of mathematics dealing with rates of change and accumulation.,education
+career advice,Identify your interests, gain relevant skills, network, and be open to opportunities.,career
+how to write resume,Highlight achievements, use action verbs, tailor to the job, and keep it concise.,career
+interview tips,Research the company, practice common questions, dress appropriately, and ask questions.,career
+travel destinations,Popular destinations: Paris, Tokyo, Bali, New York, Rome, and Bangkok.,travel
+packing tips,Make a list, roll clothes, pack versatile items, and don't forget chargers and documents.,travel
+budget travel,Travel offseason, use public transport, eat local food, and consider hostels.,travel
+what is crypto,Cryptocurrency is digital money using cryptography for security, like Bitcoin or Ethereum.,finance
+how to invest,Start with research, diversify investments, consider index funds, and think long-term.,finance
+saving money tips,Create a budget, cut unnecessary expenses, cook at home, and use automatic savings.,finance
+what is stock market,The stock market is where shares of public companies are bought and sold.,finance
+mental health,Take breaks, talk to someone, practice self-care, and seek professional help if needed.,health
+stress management,Exercise, meditate, prioritize tasks, and maintain work-life balance.,health
+healthy eating,Eat fruits and vegetables, limit processed foods, drink water, and control portions.,health
+... (add more records to reach 500)
